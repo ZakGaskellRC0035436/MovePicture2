@@ -26,5 +26,15 @@ namespace MovePicture2
         {
             pictureBox1.Location = new Point(pictureBox1.Location.X +5, pictureBox1.Location.Y);
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
